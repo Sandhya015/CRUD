@@ -4,7 +4,7 @@ $username = "root";
 $password = "";
 $dbname = "curd";
 
-// Create connection
+// Create connection 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 
 // Check connection
