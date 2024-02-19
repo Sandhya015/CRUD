@@ -65,7 +65,7 @@ include "db_conn.php";
             </td>
           </tr>
         <?php
-        }
+        } 
         ?>
       </tbody>
     </table>
